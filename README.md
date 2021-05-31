@@ -1,25 +1,4 @@
-# Homework 2
-
-## Due Date
-This homework is due on ***Sunday, October 4th by 11:59 pm EST***. It is going to cover *some* concepts on the midterm, so it will be helpful as practice.
-
-> **Late submissions will lose 50% of their original grade.** So if you originally get a 100%, you would be given a 50%, and so on so forth.
-
-## Submission Instructions
-
-Please follow these exact instructions for full submission credit. 
-1. You must submit your R file uploaded to Latte 
-1. A PDF with your name and a link to your code also hosted on Github. This should be called `FirstNameLastName_Homework2.pdf`
-1. Your R file should be named in this format: `FirstNameLastName_Homework2.R`
-
-> Please replace `FirstNameLastName` with your **ACTUAL** name. These are *placeholders*. 
-> If the TA submitted the assignment, his files would be named 
-> `MitchellDodell_Homework2.pdf` and `MitchellDodell_Homework2.R`
-
-## Style
-Your code should be written in a way that is clear and easy to read. Try to use intention revealing variable name, i.e. names that illustrate what your variable actually represents. Use comments if you believe your code needs to be explained further or is in any way unclear.
-
-## Questions
+# Intro to R Continued
 
 ### Question 1 - Pythagorean Theorem Function
 A Pythagorean trio is a set of three numbers:
